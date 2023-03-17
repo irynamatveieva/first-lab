@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MatveevaProject</string>
+    <string name="full_desc_of_rabbit">"Rabbits are small, furry mammals with long ears, short fluffy tails, and strong, large hind legs. They have 2 pairs of sharp incisors (front teeth), one pair on top and one pair on the bottom. They also have 2 peg teeth behind the top incisors."</string>
+    <string name="full_desc_of_cat">A cat is a furry animal that has a long tail and sharp claws. Cats are often kept as pets. Cats are lions, tigers, and other wild animals in the same family.</string>
+    <string name="full_desc_off_dog">The dog is a pet animal. A dog has sharp teeth so that it can eat flesh very easily, it has four legs, two ears, two eyes, a tail, a mouth, and a nose. It is a very clever animal and is very useful in catching thieves. It runs very fast, barks loudly and attacks the strangers.</string>
+</resources>
